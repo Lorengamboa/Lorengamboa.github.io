@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css?family=Bubblegum+Sans');
+html, body {
+  height: 100%;
+  margin: 0;
+  padding-top: 10px;
+  background-color: #f2f0a2;
+}
+
+/*full-page*/
+.content {
+  height: 100%;
+  min-height: 100%;
+}
+
+html>body .content {
+  height:auto;
+}
+
+.block-title {
+  /*for mozilla*/
+  font-size: 60px;
+  margin-bottom: 60px;
+}
+
+.page-header {
+  border-bottom: 1px solid #333;
+}
+
+.page-header span {
+  word-spacing: 10px;
+  cursor: pointer;
+}
+
+.text-js {
+  background-color: #fcff82 !important;
+}
+
+#bios {
+  font-family: 'Bubblegum Sans', cursive;
+  font-size: 40px;
+}
+
+#projects {
+  padding: 30px 0 80px 0;
+  background-color: #f4f4f4;
+}
+
+#contactme {
+  padding: 30px 0 80px 0;
+  background-color: white;
+}
