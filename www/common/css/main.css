@@ -17,9 +17,16 @@ html>body .content {
 }
 
 .block-title {
-  /*for mozilla*/
   font-size: 60px;
   margin-bottom: 60px;
+}
+
+.list-logo {
+  margin: 4em 0;
+}
+
+.list-logo img {
+  height: 50px;
 }
 
 .page-header {
@@ -35,7 +42,7 @@ html>body .content {
   background-color: #fcff82 !important;
 }
 
-#bios {
+#intro {
   font-family: 'Bubblegum Sans', cursive;
   font-size: 40px;
 }
@@ -43,6 +50,9 @@ html>body .content {
 #projects {
   padding: 30px 0 80px 0;
   background-color: #f4f4f4;
+}
+.portrait {
+  max-width: 400px;
 }
 
 #contactme {
