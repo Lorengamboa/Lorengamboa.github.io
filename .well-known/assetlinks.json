@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.roche.serviceapp",
+               "sha256_cert_fingerprints": ["32:6D:55:7D:D0:E0:CC:8D:69:C1:38:B6:49:92:F0:82:80:FC:92:AB:2B:FF:42:07:65:13:75:78:27:EA:AA:9F"] }
+}]
